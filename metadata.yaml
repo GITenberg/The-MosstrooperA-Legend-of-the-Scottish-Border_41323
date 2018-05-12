@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41114'
     url: http://www.gutenberg.org/2009/agents/41114
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41323#The-MosstrooperA-Legend-of-the-Scottish-Border
 gutenberg_issued: '2012-11-08'
 gutenberg_type: Text
 identifiers:
