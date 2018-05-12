@@ -1,0 +1,26 @@
+_repo: The-MosstrooperA-Legend-of-the-Scottish-Border_41323
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41323-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fittis, Robert Scott
+    birthdate: 1824
+    deathdate: 1903
+    gutenberg_agent_id: '41114'
+    url: http://www.gutenberg.org/2009/agents/41114
+description: ''
+gutenberg_issued: '2012-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41323'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Scottish Borders (Scotland) -- Fiction'
+title: 'The Mosstrooper: A Legend of the Scottish Border'
+url: http://www.gutenberg.org/ebooks/41323
